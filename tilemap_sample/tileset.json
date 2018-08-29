@@ -1,0 +1,1 @@
+json({"tileName":"test","tileSize":256,"maxLevel":3,"maxLimitX":23,"maxLimitY":15,"whiteImageUrl":"http://www.i-scream.co.kr/data/files/2018/assets/images/white256.png","urlFormat":"tiles/{zoom}/{y}_{x}img.png","x":2048,"y":-1536})
